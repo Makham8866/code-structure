@@ -1,16 +1,16 @@
 # code-structure
 
-# 🧠 Python Programming Paradigms
+# Python Programming Paradigms
 
 This repository demonstrates different programming paradigms using Python, specifically:
 
-- ✅ Procedural Programming
-- 🧱 Object-Oriented Programming (OOP)
-- 🔐 OOP with Encapsulation
+-  Procedural Programming
+-  Object-Oriented Programming (OOP)
+-  OOP with Encapsulation
 
 ---
 
-## 📁 Files
+##  Files
 
 | File Name         | Description |
 |-------------------|-------------|
@@ -20,7 +20,7 @@ This repository demonstrates different programming paradigms using Python, speci
 
 ---
 
-## 🔍 Summary
+##  Summary
 
 This project illustrates how code can evolve from a basic structure into more maintainable and scalable designs by applying OOP and encapsulation principles.
 
@@ -32,7 +32,7 @@ Use this for:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 python procedural.py
